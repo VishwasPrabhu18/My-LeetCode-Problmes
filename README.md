@@ -20,4 +20,9 @@
 | ------- |
 | [0015-3sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0015-3sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->

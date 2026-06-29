@@ -25,4 +25,12 @@
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->

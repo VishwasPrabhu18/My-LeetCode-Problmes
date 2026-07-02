@@ -5,6 +5,7 @@
 | ------- |
 | [0015-3sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -53,6 +54,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |

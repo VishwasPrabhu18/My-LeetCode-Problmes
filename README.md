@@ -11,6 +11,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -81,18 +84,25 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
 ## Trie
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->

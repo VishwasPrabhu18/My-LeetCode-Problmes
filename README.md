@@ -123,4 +123,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->

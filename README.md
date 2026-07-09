@@ -13,6 +13,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -75,6 +78,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -94,6 +98,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |

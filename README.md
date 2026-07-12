@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -62,6 +63,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1331-rank-transform-of-an-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1358-number-of-substrings-containing-all-three-characters) |

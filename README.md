@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1288-remove-covered-intervals](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1288-remove-covered-intervals) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -32,6 +34,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0016-3sum-closest) |
 | [1288-remove-covered-intervals](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

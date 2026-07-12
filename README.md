@@ -50,6 +50,7 @@
 | [0005-longest-palindromic-substring](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0025-reverse-nodes-in-k-group) |
 ## Hash Table
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0010-regular-expression-matching) |
 | [1301-number-of-paths-with-max-score](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1301-number-of-paths-with-max-score) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3534-path-existence-queries-in-a-graph-ii) |

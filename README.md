@@ -172,6 +172,7 @@
 | [0007-reverse-integer](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0009-palindrome-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -194,4 +195,5 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -82,6 +83,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1331-rank-transform-of-an-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
@@ -94,6 +96,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
@@ -174,6 +177,7 @@
 | [0002-add-two-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0009-palindrome-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -182,6 +186,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
@@ -198,6 +203,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -205,4 +211,12 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

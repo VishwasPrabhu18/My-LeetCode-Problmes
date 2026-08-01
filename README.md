@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0486-predict-the-winner](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1260-shift-2d-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1260-shift-2d-grid) |
@@ -100,6 +101,7 @@
 | [0010-regular-expression-matching](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0010-regular-expression-matching) |
+| [0486-predict-the-winner](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1301-number-of-paths-with-max-score) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -207,6 +210,7 @@
 | [0002-add-two-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0009-palindrome-number) |
+| [0486-predict-the-winner](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -281,4 +285,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

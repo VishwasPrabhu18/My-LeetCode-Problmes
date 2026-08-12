@@ -23,6 +23,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -126,6 +127,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1331-rank-transform-of-an-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -138,6 +140,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Binary Search
 |  |

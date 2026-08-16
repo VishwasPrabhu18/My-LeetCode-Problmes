@@ -22,6 +22,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -59,6 +60,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -256,6 +258,7 @@
 | [1406-stone-game-iii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -316,6 +319,7 @@
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -344,22 +348,26 @@
 | [1140-stone-game-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |

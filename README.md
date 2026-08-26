@@ -109,6 +109,7 @@
 | [1927-sum-game](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3090-maximum-length-substring-with-two-occurrences) |

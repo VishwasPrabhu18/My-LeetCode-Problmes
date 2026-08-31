@@ -136,6 +136,7 @@
 | [0002-add-two-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0025-reverse-nodes-in-k-group) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |

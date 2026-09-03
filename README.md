@@ -50,6 +50,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
+| [3634-minimum-removals-to-balance-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3640-trionic-array-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -104,6 +105,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3536-maximum-product-of-two-digits) |
+| [3634-minimum-removals-to-balance-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3634-minimum-removals-to-balance-array) |
 | [3731-find-missing-elements](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -181,6 +183,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3634-minimum-removals-to-balance-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,6 +196,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
+| [3634-minimum-removals-to-balance-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3634-minimum-removals-to-balance-array) |
 ## Breadth-First Search
 |  |
 | ------- |

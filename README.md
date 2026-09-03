@@ -41,6 +41,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3379-transformed-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3379-transformed-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -362,6 +363,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3379-transformed-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3379-transformed-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |

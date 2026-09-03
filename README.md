@@ -50,6 +50,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3640-trionic-array-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3731-find-missing-elements) |
@@ -261,6 +262,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3620-network-recovery-pathways) |
+| [3640-trionic-array-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3640-trionic-array-ii) |
 ## Trie
 |  |
 | ------- |

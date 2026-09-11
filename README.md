@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0051-n-queens](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0051-n-queens) |
 | [0486-predict-the-winner](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -298,6 +299,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -469,4 +471,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

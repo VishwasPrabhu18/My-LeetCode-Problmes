@@ -120,6 +120,7 @@
 | [0008-string-to-integer-atoi](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1081-smallest-subsequence-of-distinct-characters) |

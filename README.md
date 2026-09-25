@@ -107,6 +107,7 @@
 | [0016-3sum-closest](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -137,6 +138,7 @@
 | [0115-distinct-subsequences](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1927-sum-game) |
@@ -181,6 +183,7 @@
 | [0001-two-sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1386-cinema-seat-allocation) |
@@ -232,6 +235,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -330,6 +334,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0051-n-queens) |
+| [1096-brace-expansion-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -448,6 +453,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |

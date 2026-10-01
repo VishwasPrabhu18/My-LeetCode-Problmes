@@ -147,6 +147,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -312,6 +313,7 @@
 | [1510-stone-game-iv](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1872-stone-game-viii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -468,6 +470,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |

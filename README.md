@@ -139,6 +139,7 @@
 | [0020-valid-parentheses](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -359,6 +360,7 @@
 | [0002-add-two-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -445,6 +447,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3379-transformed-array) |

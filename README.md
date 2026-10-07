@@ -143,6 +143,7 @@
 | [0038-count-and-say](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -251,6 +252,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2685-count-the-number-of-complete-components) |
@@ -358,6 +360,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math

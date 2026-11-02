@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0051-n-queens) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -137,6 +138,7 @@
 | [0015-3sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0018-4sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1288-remove-covered-intervals) |
@@ -440,6 +442,7 @@
 | [0043-multiply-strings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0836-rectangle-overlap) |

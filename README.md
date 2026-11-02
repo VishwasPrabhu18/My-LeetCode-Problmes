@@ -34,6 +34,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1980-find-unique-binary-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -189,6 +190,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1980-find-unique-binary-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1980-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -241,6 +243,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1980-find-unique-binary-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1980-find-unique-binary-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -422,6 +425,7 @@
 | [0051-n-queens](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0051-n-queens) |
 | [0301-remove-invalid-parentheses](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1096-brace-expansion-ii) |
+| [1980-find-unique-binary-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |

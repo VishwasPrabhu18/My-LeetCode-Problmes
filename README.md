@@ -44,6 +44,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2906-construct-product-matrix](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2906-construct-product-matrix) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -337,6 +338,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -485,6 +487,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1872-stone-game-viii) |
+| [2906-construct-product-matrix](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |

@@ -69,6 +69,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -293,6 +294,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
@@ -611,16 +613,19 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -726,4 +731,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->

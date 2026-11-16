@@ -212,6 +212,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1980-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -584,6 +585,7 @@
 | [0043-multiply-strings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3498-reverse-degree-of-a-string) |

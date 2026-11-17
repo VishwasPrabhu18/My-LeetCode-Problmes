@@ -117,6 +117,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -216,6 +217,7 @@
 | [2409-count-days-spent-together](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -424,6 +426,7 @@
 | [1872-stone-game-viii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishwasPrabhu18/My-LeetCode-Problmes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
